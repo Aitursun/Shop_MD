@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Les\\.gradle\\daemon\\8.4\\com.example.shop_md.app-mergeDebugResources-46:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Les\\.gradle\\daemon\\8.4\\com.example.shop_md.app-main-49:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Les\\.gradle\\daemon\\8.4\\com.example.shop_md.app-mergeDebugResources-46:\\layout\\fragment_description.xml",
+        "source": "C:\\Users\\Les\\.gradle\\daemon\\8.4\\com.example.shop_md.app-main-49:\\layout\\fragment_description.xml"
+    },
+    {
+        "merged": "C:\\Users\\Les\\.gradle\\daemon\\8.4\\com.example.shop_md.app-mergeDebugResources-46:\\layout\\fragment_payment.xml",
+        "source": "C:\\Users\\Les\\.gradle\\daemon\\8.4\\com.example.shop_md.app-main-49:\\layout\\fragment_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Les\\.gradle\\daemon\\8.4\\com.example.shop_md.app-mergeDebugResources-46:\\layout\\fragment_notifications.xml",
+        "source": "C:\\Users\\Les\\.gradle\\daemon\\8.4\\com.example.shop_md.app-main-49:\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "com.example.shop_md.app-mergeDebugResources-46:/layout/item_product.xml",
+        "source": "com.example.shop_md.app-main-49:/layout/item_product.xml"
+    },
+    {
+        "merged": "com.example.shop_md.app-mergeDebugResources-46:/layout/item_desc.xml",
+        "source": "com.example.shop_md.app-main-49:/layout/item_desc.xml"
+    },
+    {
+        "merged": "C:\\Users\\Les\\.gradle\\daemon\\8.4\\com.example.shop_md.app-mergeDebugResources-46:\\layout\\fragment_dashboard.xml",
+        "source": "C:\\Users\\Les\\.gradle\\daemon\\8.4\\com.example.shop_md.app-main-49:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Les\\.gradle\\daemon\\8.4\\com.example.shop_md.app-mergeDebugResources-46:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Les\\.gradle\\daemon\\8.4\\com.example.shop_md.app-main-49:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Les\\.gradle\\daemon\\8.4\\com.example.shop_md.app-mergeDebugResources-46:\\layout\\item_product.xml",
+        "source": "C:\\Users\\Les\\.gradle\\daemon\\8.4\\com.example.shop_md.app-main-49:\\layout\\item_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\Les\\.gradle\\daemon\\8.4\\com.example.shop_md.app-mergeDebugResources-46:\\layout\\item_desc.xml",
+        "source": "C:\\Users\\Les\\.gradle\\daemon\\8.4\\com.example.shop_md.app-main-49:\\layout\\item_desc.xml"
+    },
+    {
+        "merged": "C:\\Users\\Les\\.gradle\\daemon\\8.4\\com.example.shop_md.app-mergeDebugResources-46:\\layout\\fragment_basket.xml",
+        "source": "C:\\Users\\Les\\.gradle\\daemon\\8.4\\com.example.shop_md.app-main-49:\\layout\\fragment_basket.xml"
+    }
+]
